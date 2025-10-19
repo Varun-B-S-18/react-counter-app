@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    background-color: #303030;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.counter-header{
+    padding: 20px;
+    background-color: blueviolet;
+    width: 300px;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 20px;
+    /* display: flex; 
+    justify-content: center;
+    align-items: center; */
+} 
+.counter-button{
+    padding: 5px;
+    border-radius: 10px;
+    border: none;
+    margin: 20px;
+}
